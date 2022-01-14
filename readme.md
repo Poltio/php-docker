@@ -1,3 +1,8 @@
+Please use https://github.com/gcg/docker-php/ instead of this. 
+
+
+
+
 # Poltio PHP Docker image 
 
 Based on PHP 7.2 FPM Alpine Linux. 
